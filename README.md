@@ -28,7 +28,7 @@ Installation is not needed for most users by visiting http://fame.edbc.org/qdmr/
 
 QDMR also supports installation pacages at http://fame.edbc.org/qdmr/Downloads.jsp
 
-`Please make sure a suitable version of Java is installed on your system.`
+`Please make sure a suitable version of Java is installed on your system before running any version of QDMR.`
 
 Usage of QDMR
 ---------------
