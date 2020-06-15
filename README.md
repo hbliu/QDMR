@@ -24,8 +24,10 @@ Features of QDMR
 
 Install
 -------
-Installation is not needed for most users by visiting http://fame.edbc.org/qdmr/QDMR.jnlp 
+Installation is not needed for most users by visiting http://fame.edbc.org/qdmr/QDMR.jnlp
+
 QDMR also supports installation pacages at http://fame.edbc.org/qdmr/Downloads.jsp
+
 `Please make sure a suitable version of Java is installed on your system.`
 
 Usage of QDMR
@@ -49,7 +51,9 @@ The results will be saved in a folder containing Entropy Table, DMR Table, N-DMR
 Other useful links
 ------------------
 :QDMR:  http://fame.edbc.org/qdmr/
+
 :Forum: https://groups.google.com/forum/#!forum/qdmr
+
 :SMART: http://fame.edbc.org/smart/
 
 
