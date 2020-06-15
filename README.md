@@ -1,6 +1,6 @@
 README for QDMR
 ----------------
-*Time-stamp: <2020-06-14 Hongbo Liu>*
+*Time-stamp: <2020-06-15 Hongbo Liu>*
 
 Introduction
 ------------
